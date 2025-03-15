@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Omaralmaqtari
 - 👀 I’m interested in Electronics, Computer Vision, AI
-- 🌱 I’m currently learning about differnet Neural Networks architecture.
-- 💞️ I’m looking to collaborate on data preparation for training.
-- 📫 This is email: o.al-maqtari@hotmail.com.
+- 🌱 I’m currently working on designing Lightweight and Efficient Neural Networks.
+- 💞️ I want to collaborate on developing new feature extraction techniques and attention mechanisms.
+- 📫 This is my email: o.al-maqtari@hotmail.com.
